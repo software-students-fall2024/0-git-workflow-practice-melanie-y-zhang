@@ -1,2 +1,11 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article
+
+[This is a link to the article *Startup’s displays engineer light to generate immersive experiences without the headsets*] (https://news.mit.edu/2024/brelyon-creates-immersive-digital-experiences-without-headsets-0912)
+
+# Summary
+
+I find this article super interesting; it covers new advancements being made in virtual reality visualization tech. The startup's display system allows them to render large imagery with actual visual depth. This is much more immersive and practical than the standard VR headset of today.
+
+# Alexandra Mastrangelo Comment
+
+This technology really could be a game changer for VR. Having these types of emersive experiences without the discomfort of headsets make it more practical for every day uses. 
